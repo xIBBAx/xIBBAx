@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://xibbax.wordpress.com/)
 
 <h1 align="center">What's up! 👋, I'm Ibrahim Sultan</h1>
 <h3 align="center">Ibrahim Sultan is an AI/ML Software Engineer with a B.Tech in Electronics and Computer Science. With a year of corporate experience, he brings fresh and innovative insights to the AI/ML field. Ibrahim is also a passionate musician, actor, tech enthusiast, and host, blending his technical expertise with a dynamic and creative approach to everything he does.</h3>
