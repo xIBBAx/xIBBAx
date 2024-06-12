@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">What's up! 👋, I'm Ibrahim Sultan and I was Bitten by a Radioactive Spider...</h1>
-<h3 align="center">Hey, I'm Ibrahim Sultan. I am an AI/ML Software Engineer with a B.Tech in Electronics and Computer Science. With a year of corporate experience, I bring fresh and innovative insights to the AI/ML field. I'm also a passionate musician, actor, tech enthusiast, and host, blending my technical expertise with a dynamic and creative approach to everything I do.</h3>
+<h3 align="center">Jokes aside, I am an AI/ML Software Engineer with a B.Tech in Electronics and Computer Science. With a year of corporate experience, I bring fresh and innovative insights to the AI/ML field. I'm also a passionate musician, actor, tech enthusiast, and host, blending my technical expertise with a dynamic and creative approach to everything I do.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xibbax&label=Profile%20views&color=0e75b6&style=flat" alt="xibbax" /> </p>
 
