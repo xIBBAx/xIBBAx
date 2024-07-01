@@ -21,7 +21,9 @@
 
 - 📫 How to reach me **ibrahimsultan4705@gmail.com**
 
-- 📄 Know about my experiences [[https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.linkedin.com/in/ibrahim-sultan-065065251/)]([https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.linkedin.com/in/ibrahim-sultan-065065251/))
+📄 Know about my experiences:
+LinkedIn Profile: [https://www.linkedin.com/in/ibrahim-sultan-065065251/](https://www.linkedin.com/in/ibrahim-sultan-065065251/)
+Naukri Profile: [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 - ⚡ Fun fact **Beyond completing my engineering degree, I've embraced a multifaceted life journey. Not only am I a musician, but I've also become a mentor to aspiring talents, guiding them through the intricacies of music. As a versatile actor, I've graced various stages, embodying different personas with finesse and passion. On the tech front, I'm not just an enthusiast; I lead a dynamic technical committee with over 1k followers, where I share insights, host events, and foster a community of innovation. Whether it's composing melodies, captivating audiences on stage, or spearheading tech initiatives, I thrive on embracing the richness of life's experiences.**
 
