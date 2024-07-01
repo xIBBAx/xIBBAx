@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ibrahimsultan4705@gmail.com**
 
-📄 Know about my experiences:<br>
+-📄 Know about my experiences:<br>
 LinkedIn Profile: [https://www.linkedin.com/in/ibrahim-sultan-065065251/](https://www.linkedin.com/in/ibrahim-sultan-065065251/)<br>
 Naukri Profile: [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
