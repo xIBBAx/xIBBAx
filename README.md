@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xibbax" alt="xibbax" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sultan_ibr80886" target="blank"><img src="https://img.shields.io/twitter/follow/sultan_ibr80886?logo=twitter&style=for-the-badge" alt="sultan_ibr80886" /></a> </p>
+<p align="left"> <a href="https://twitter.com/badassibba" target="blank"><img src="https://img.shields.io/twitter/follow/sultan_ibr80886?logo=twitter&style=for-the-badge" alt="sultan_ibr80886" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2UwcDFudDB6Y3psb3lpcGh2czloaDVjd3BteGNuOTE3eDY2aGkxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.webp">
 
