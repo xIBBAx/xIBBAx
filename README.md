@@ -41,6 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xibbax&show_icons=true&locale=en&layout=compact" alt="xibbax" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xibbax&show_icons=true&locale=en" alt="xibbax" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xibbax&" alt="xibbax" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xibbax&show_icons=true&locale=en" alt="xibbax" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xibbax&" alt="xibbax" /></p>
