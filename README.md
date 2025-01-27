@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/badassibba" target="blank"><img src="https://img.shields.io/twitter/follow/badassIBBA?logo=twitter&style=for-the-badge" alt="sultan_ibr80886" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI4YWE1eWtmM25iY2VzNWRlOTZrbmh6MjYwcnlrOXlxdGo4YzF4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/TBHiPhgJeaNAk/giphy.gif?cid=ecf05e47uh9fuwnfzspwei0g136jtlxpi8rey0kqhr1w60ha&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working at Techpeek AI
 
