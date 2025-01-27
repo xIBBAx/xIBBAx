@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI4YWE1eWtmM25iY2VzNWRlOTZrbmh6MjYwcnlrOXlxdGo4YzF4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif">
 
-- 🔭 I’m currently working at [Techpeek AI]
+- 🔭 I’m currently working at Techpeek AI
 
 - 🌱 I’m currently learning **Advanced Techniques in Machine Learning and Artificial Intelligence, as well as exploring new frameworks and tools in web development and Python to stay ahead in the ever-evolving tech industry.**
 
