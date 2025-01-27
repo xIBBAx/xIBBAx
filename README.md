@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF Banner" width="100%">
 </a>
 
-<h1 align="center">What's up! 👋, I'm Ibrahim Sultan</h1>
+<h1 align="center">Hey There! 👋, I'm Ibrahim Sultan</h1>
 <h3 align="center">I am an AI/ML Software Engineer with a B.Tech in Electronics and Computer Science. With a year of corporate experience, I bring fresh and innovative insights to the AI/ML & Python field. I'm also a passionate musician, actor, tech enthusiast, and host, blending my technical expertise with a dynamic and creative approach to everything I do.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xibbax&label=Profile%20views&color=0e75b6&style=flat" alt="xibbax" /> </p>
