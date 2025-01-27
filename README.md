@@ -1,5 +1,5 @@
 <a href="https://xibbax.wordpress.com/" target="_blank">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF Banner" width="100%">
+  <img src="https://media.giphy.com/media/xUA7b9bjnsbzpxL6WA/giphy.gif?cid=790b76118rpndp9qvk25orfmdh7fjrcanxwkaypzcnv2y4qk&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF Banner" width="100%">
 </a>
 
 <h1 align="center">Hey There! 👋, I'm Ibrahim Sultan</h1>
