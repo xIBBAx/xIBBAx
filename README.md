@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/badassibba" target="blank"><img src="https://img.shields.io/twitter/follow/badassIBBA?logo=twitter&style=for-the-badge" alt="sultan_ibr80886" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2UwcDFudDB6Y3psb3lpcGh2czloaDVjd3BteGNuOTE3eDY2aGkxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI4YWE1eWtmM25iY2VzNWRlOTZrbmh6MjYwcnlrOXlxdGo4YzF4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif">
 
 - 🔭 I’m currently working on [Medical Pharma Solutions](https://github.com/xIBBAx/Medical-Solutions)
 
