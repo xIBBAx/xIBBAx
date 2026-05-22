@@ -1,12 +1,12 @@
 # Ibrahim Sultan
 
-**AI/ML Software Engineer | Software Development Engineer**
+**AI/ML Software Engineer**
 
 I build production-grade AI and software systems across Generative AI, RAG, semantic and vector search, OCR, document intelligence, backend/frontend integration, data pipelines, and deployment hardening. My work sits at the intersection of model orchestration, product engineering, reliable APIs, and user-facing AI workflows.
 
 I was brought up in Dubai and moved to India for higher studies and professional growth. I hold a B.Tech in Electronics and Computer Science Engineering from Pillai College of Engineering / Pillai University, with a CGPA of 8.42.
 
-[Portfolio](https://xibbax.wordpress.com/) | [Blogs](https://blogsbyibba.wordpress.com/) | [Email](mailto:ibrahimsultan4705@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-ibrahim-sultan/) | [Kaggle](https://www.kaggle.com/ibrahimsultan01) | [YouTube](https://www.youtube.com/@xibbax) | [LeetCode](https://leetcode.com/u/zqsynyu0af/) | [CodePen](https://codepen.io/ibrahim-sultan) | [Instagram](https://www.instagram.com/ibrahimsultan_._/) | [Twitter/X](https://x.com/sultan_ibr80886) | [Discord](https://discord.com/invite/767388156902244382)
+[Email](mailto:ibrahimsultan4705@gmail.com) | [LinkedIn](https://www.linkedin.com/in/-ibrahim-sultan/) | [Medium](https://medium.com/@xIBBAx)
 
 ## Engineering Focus
 
