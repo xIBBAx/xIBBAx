@@ -44,11 +44,3 @@ I follow open-weight and model-infrastructure ecosystems closely, especially Qwe
 ## Leadership and Communication
 
 Beyond engineering, I have led and supported technical and creative communities through ETSA Technical Committee work, speaking, workshops, events, theatre, music mentoring, hosting, and team-building. That background shapes how I communicate technical ideas, collaborate across teams, and keep product work grounded in real user experience.
-
-## GitHub Snapshot
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xibbax&show_icons=true&hide_border=true&rank_icon=github" alt="Ibrahim Sultan GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xibbax&layout=compact&hide_border=true" alt="Ibrahim Sultan top languages" />
-</p>
-kuapp.com/?user=xibbax&" alt="xibbax" /></p>
